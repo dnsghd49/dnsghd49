@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayron
 - 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently mastering React.js
 - 📫 How to reach me: yunhonglu0409@gmail.com
 - 💞️ Linked in: https://www.linkedin.com/in/aaron-lu-457793144/
 
