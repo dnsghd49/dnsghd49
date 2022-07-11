@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ayron
 - 👀 I’m interested in full stack web development 
-- 🌱 I’m currently leanring more about backend development 
+- 🌱 I’m currently leanring Python and Java
 - 📫 How to reach me: yunhonglu0409@gmail.com
 - 💞️ Linked in: https://www.linkedin.com/in/aaron-lu-457793144/
 - ✨ Portfolio Page: https://dnsghd49.github.io/SockoutJS/index.html
